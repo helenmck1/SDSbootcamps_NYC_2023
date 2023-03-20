@@ -9,6 +9,11 @@
  You will need a CARTO account to complete some of the sections of this bootcamp. If you don't have one, head to <a href="https://carto.com/signin/" target="_blank" rel="noopener noreferrer">CARTO's website</a> to access a free two-week trial.
 </p>
 <br>
+<h2>The Spatial Data Science Handbook</h2>
+<p>
+ Access your handbook <a href="https://docs.google.com/presentation/d/1jlzRRLnFKyrykTKoe_143_KzM7z_eAot3-dm9ig_MPM/edit?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>! (if you can't access this document, try logging out from your company Google organization - some organizations block access to external documents.
+</p>
+<br>
 <h2>Session 1: “The Foundations of Geospatial” with Daniel Sheehan</h2>
 <p>
  Access the materials <a href="https://github.com/nygeog/sdsc/blob/main/2023-foundations-of-geospatial.ipynb" target="_blank" rel="noopener noreferrer">here</a>.
