@@ -37,7 +37,7 @@
 <br>
 <h2>Session 5: “Using SQL to scale your spatial analytics” with Aaron Fraint</h2>
 <p>
- Access the materials <a href="https://docs.google.com/presentation/d/1sxp1WWoEG7RP9e5Nk1IQRWtlKGY_YLl_07ccZq93nFc/edit#slide=id.g6c43cb8dd6_0_0">here</a>.
+ Access the slides <a href="https://docs.google.com/presentation/d/1sxp1WWoEG7RP9e5Nk1IQRWtlKGY_YLl_07ccZq93nFc/edit?usp=sharing">here</a> and worksheets <a href="https://drive.google.com/file/d/1-1_hPpt0UK-ox_GNgTQXRRpPjb4R5NFL/view?usp=share_link">here</a>. 
 </p>
 <br>
 <h2>Session 6: “Data Visualization Clinic” with Helen McKenzie</h2>
