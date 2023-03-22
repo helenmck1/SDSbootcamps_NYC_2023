@@ -21,7 +21,7 @@
 <br>
 <h2>Session 2: “The Modern Geospatial Data Stack” With Gabriel Hidalgo</h2>
 <p>
- Access the slides <a href="https://docs.google.com/presentation/d/1mvuq6dfoFhd0LKfdCpTctBkpsBHx0RGRMr8MPKxADYg/edit?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>.
+ Access the slides <a href="https://docs.google.com/presentation/d/1reIIoPFROXOHDEl24Y3Z7KcOi1Z4rVOtW6Krtr-GPU4/edit?usp=share_link" target="_blank" rel="noopener noreferrer">here</a>.
 </p>
 <br>
 <h2>Session 3: “An Intro to Geospatial Data Engineering” with Matt Forrest</h2>
@@ -37,7 +37,7 @@
 <br>
 <h2>Session 5: “Using SQL to scale your spatial analytics” with Aaron Fraint</h2>
 <p>
- Access the materials <a href="https://docs.google.com/presentation/d/1NjGzXvknDohvjP1M63HyrW8WsMGS2rzY5mjMD5wVIQA/edit#slide=id.g6c43cb8dd6_0_0">here</a>.
+ Access the materials <a href="https://docs.google.com/presentation/d/1sxp1WWoEG7RP9e5Nk1IQRWtlKGY_YLl_07ccZq93nFc/edit#slide=id.g6c43cb8dd6_0_0">here</a>.
 </p>
 <br>
 <h2>Session 6: “Data Visualization Clinic” with Helen McKenzie</h2>
