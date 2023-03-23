@@ -29,16 +29,16 @@
  Access the materials <a href="https://docs.google.com/presentation/d/1GUi5wiIEoRJhn3eXbacZ7_GBR_84jOQ1o1u0I0dkS-8/edit" target="_blank" rel="noopener noreferrer">here</a>.
 </p>
 <br>
-<h2>Session 4: “Leverage Python for Spatial Data Science” with Will Geary</h2>
+<h2>Session 4: “Using SQL to scale your spatial analytics” with Aaron Fraint</h2>
+<p>
+ Access the slides <a href="https://docs.google.com/presentation/d/1sxp1WWoEG7RP9e5Nk1IQRWtlKGY_YLl_07ccZq93nFc/edit?usp=sharing">here</a> and worksheets <a href="https://drive.google.com/file/d/1-1_hPpt0UK-ox_GNgTQXRRpPjb4R5NFL/view?usp=share_link">here</a>. 
+</p>
+<br>
+<h2>Session 5: “Leverage Python for Spatial Data Science” with Will Geary</h2>
 <p>
  Access the materials <a href="https://github.com/willgeary/PythonSpatialDataScience" target="_blank" rel="noopener noreferrer">here</a>.
 </p>
 <br>
-<br>
-<h2>Session 5: “Using SQL to scale your spatial analytics” with Aaron Fraint</h2>
-<p>
- Access the slides <a href="https://docs.google.com/presentation/d/1sxp1WWoEG7RP9e5Nk1IQRWtlKGY_YLl_07ccZq93nFc/edit?usp=sharing">here</a> and worksheets <a href="https://drive.google.com/file/d/1-1_hPpt0UK-ox_GNgTQXRRpPjb4R5NFL/view?usp=share_link">here</a>. 
-</p>
 <br>
 <h2>Session 6: “Data Visualization Clinic” with Helen McKenzie</h2>
 <p>
