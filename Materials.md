@@ -21,7 +21,7 @@
 <br>
 <h2>Session 2: “The Modern Geospatial Data Stack” With Gabriel Hidalgo</h2>
 <p>
- Access the slides <a href="https://docs.google.com/presentation/d/1ZW3OUEA36IE7RSxbVtCIrCHMPyOj5vzrHnKOJc7-JnE/edit?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>.
+ Access the slides <a href="https://docs.google.com/presentation/d/1reIIoPFROXOHDEl24Y3Z7KcOi1Z4rVOtW6Krtr-GPU4/edit?usp=share_link" target="_blank" rel="noopener noreferrer">here</a>.
 </p>
 <br>
 <h2>Session 3: “An Intro to Geospatial Data Engineering” with Matt Forrest</h2>
