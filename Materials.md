@@ -1,4 +1,4 @@
-<h1>Spatial Data Science Bootcamps: NYC 2022</h1>
+<h1>Spatial Data Science Bootcamps: NYC 2023</h1>
 <br>
 <p>
  Welcome to your Spatial Data Science Bootcamps repo! The majority of your course materials can be found here. These will also be shared with a digital version of your handbook after the event.
